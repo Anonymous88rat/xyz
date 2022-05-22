@@ -8,4 +8,5 @@
 7)cube.cpp
 8)noise.py
 9)complement.py
-10)
+10)threshold.py
+11)histogram.py
