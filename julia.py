@@ -42,7 +42,7 @@ def drawImage(c):
     image = np.array(image, np.uint8)
     image = cv2.cvtColor(image, cv2.IMREAD_COLOR)
 
-    cv2.imshow("mandelbrot", image)
+    cv2.imshow("julia", image)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
     
